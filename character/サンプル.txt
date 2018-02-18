@@ -1,0 +1,8 @@
+{
+	"image": "/master-master/charaimage/サンプル.png",
+	"type": "Human",
+	"hp": 10,
+	"move": 3,
+	"jump": 3,
+	"speed": 10,
+}
