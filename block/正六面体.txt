@@ -155,5 +155,7 @@
             "y": -0.5,
             "z": 0.5
         }
-    ]
+    ],
+    "maxHeight": 2.0,
+    "centerHeight": 2.0
 }
